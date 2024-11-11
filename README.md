@@ -1,4 +1,4 @@
-# Deep_learning_models_for_Dogecoin_price_prediction
+# Deep learning models for Dogecoin price prediction
 
 ## 개요
 
